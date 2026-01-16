@@ -55,6 +55,8 @@ const file_icons = {
     'postcss.config.js': 'postcss.svg',
 
     'eslintrc': 'eslint.svg',
+
+    'svg': 'svg.svg',
 };
 
 function get_icon_url(file_name) {
