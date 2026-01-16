@@ -5,7 +5,13 @@ const file_icons = {
     'tsx': 'tsx.svg',
     'jsx': 'jsx.svg',
     'tsconfig.json': 'ts.svg',
+    'tsconfig.app.json': 'ts.svg',
+    'tsconfig.node.json': 'ts.svg',
     'tsconfig.types.json': 'ts.svg',
+
+    'py': 'py.svg',
+
+    'java': 'java.svg',
 
     'json': 'json.svg',
     'json5': 'json.svg',
@@ -17,10 +23,17 @@ const file_icons = {
     'sass': 'scss.svg',
     'styl': 'styl.svg',
     'html': 'html.svg',
+    'xml': 'xml.svg',
 
     'next.config.js': 'nextjs.svg',
     'next.config.mjs': 'nextjs.svg',
     'next.config.ts': 'nextjs.svg',
+
+    'vite.config.js': 'vite.svg',
+    'vite.config.mjs': 'vite.svg',
+    'vite.config.ts': 'vite.svg',
+
+    'vue': 'vue.svg',
 
     'luau': 'luau.svg',
     'luaurc': 'luau.svg',
@@ -43,6 +56,24 @@ const file_icons = {
 
     'php': 'php.svg',
     'php.ini': 'php.svg',
+
+    'go': 'go.svg',
+    'go.mod': 'go.svg',
+    'go.sum': 'go.svg',
+    'textproto': 'go.svg',
+
+    'rs': 'rust.svg',
+    'cargo.toml': 'rust.svg',
+    'cargo.lock': 'rust.svg',
+    'rustfmt.toml': 'rust.svg',
+    'rust-toolchain.toml': 'rust.svg',
+
+    'docker-compose.yml': 'docker.svg',
+    'docker-compose.yaml': 'docker.svg',
+    'dockerignore': 'docker.svg',
+    
+    'turbo.json': 'turborepo.svg',
+    'turbo.jsonc': 'turborepo.svg',
 
     'localsettings.php': 'mediawiki.svg',
     'wikitext': 'mediawiki.svg',
@@ -68,6 +99,12 @@ const file_icons = {
     'babelrc': 'babel.svg',
     'babel.config': 'babel.svg',
 
+    'ttf': 'ttf.svg',
+    'otf': 'ttf.svg',
+    'woff': 'ttf.svg',
+    'woff2': 'ttf.svg',
+    'ttc': 'ttf.svg',
+
 
     'nojekyll': 'jekyll.svg',
     
@@ -75,6 +112,7 @@ const file_icons = {
 
     'md': 'md.svg',
     'mdx': 'mdx.svg',
+    'csv': 'csv.svg',
 
     'yaml': 'yaml.svg',
     'yml': 'yaml.svg',
@@ -94,6 +132,9 @@ const file_icons = {
 
     'package.json': 'npm.svg',
     'package-lock.json': 'npm.svg',
+    'npmrc': 'npm.svg',
+    'npmrc.yml': 'npm.svg',
+    'nvmrc': 'npm.svg',
 
     'pnpm-lock.yaml': 'pnpm.svg',
     'pnpm-workspace.yaml': 'pnpm.svg',
@@ -109,6 +150,7 @@ const file_icons = {
 
     'tailwind.config.mjs': 'tailwindcss.svg',
     'tailwind.config.js': 'tailwindcss.svg',
+    'tailwind.config.ts': 'tailwindcss.svg',
 
     'postcss.config.mjs': 'postcss.svg',
     'postcss.config.js': 'postcss.svg',
@@ -120,6 +162,11 @@ const file_icons = {
     'eslint.config.cjs': 'eslint.svg',
     'eslint.config.ts': 'eslint.svg',
     'eslintrc.json': 'eslint.svg',
+
+    'crowdin.yml': 'crowdin.svg',
+    'crowdin.yaml': 'crowdin.svg',
+
+    'iml': 'intellij_idea.svg',
 
     'svg': 'svg.svg',
     'png': 'image.svg',
