@@ -79,14 +79,22 @@ const file_icons = {
 
 function get_icon_url(file_name) {
     const name_lower = file_name.toLowerCase();
+    const parts = name_lower.split('.');
 
-    if (file_icons[name_lower]) { return chrome.runtime.getURL(`icons/files/${file_icons[name_lower]}`); };
-    if (name_lower.startsWith('.') && file_icons[name_lower.slice(1)]) { return chrome.runtime.getURL(`icons/files/${file_icons[name_lower.slice(1)]}`); };
+    // iterate through the name
+    // e.g. "foo.model.json" -> "foo.model.json", "model.json", "json"
+    // e.g. ".gitignore" -> ".gitignore", "gitignore"
+    for (let i = 0; i < parts.length; i++) {
+        // if it starts with dot, parts[0] is empty
+        // i=0 joined is ".gitignore". i=1 joined is "gitignore"
 
-    if (file_name.includes('.')) {
-        const ext = file_name.split('.').pop().toLowerCase();
-        if (file_icons[ext]) { return chrome.runtime.getURL(`icons/files/${file_icons[ext]}`); };
-    }
+        const suffix = parts.slice(i).join('.');
+        if (!suffix) continue;
+
+        if (file_icons[suffix]) {
+            return chrome.runtime.getURL(`icons/files/${file_icons[suffix]}`);
+        };
+    };
 
     return null;
 }
