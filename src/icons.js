@@ -83,10 +83,18 @@ const file_icons = {
 
     'vscode': 'vscode.svg',
     'vsconfig': 'vscode.svg',
+    'code-workspace': 'vscode.svg',
 
     'sln': 'vs.svg',
     'slnx': 'vs.svg',
     'suo': 'vs.svg',
+    'props': 'msbuild.svg',
+    'ruleset': 'msbuild.svg',
+    'targets': 'msbuild.svg',
+    'vbproj': 'msbuild.svg',
+    'csproj': 'msbuild.svg',
+    'vb': 'vs.svg',
+    
 
     'config': 'config.svg',
 
