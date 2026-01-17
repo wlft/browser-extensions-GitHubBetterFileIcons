@@ -79,6 +79,18 @@ const file_icons = {
     'cmakecache.txt': 'cmake.svg',
     'c': 'c.svg',
     'h': 'c.svg',
+    'cs': 'cs.svg',
+
+    'vscode': 'vscode.svg',
+    'vsconfig': 'vscode.svg',
+
+    'sln': 'vs.svg',
+    'slnx': 'vs.svg',
+    'suo': 'vs.svg',
+
+    'config': 'config.svg',
+
+    'nuget.config': 'nuget.svg',
 
     'sh': 'bash.svg',
 
