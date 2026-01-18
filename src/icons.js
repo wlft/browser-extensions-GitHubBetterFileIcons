@@ -262,6 +262,8 @@ const file_icons = {
 
     'cname': 'cname.svg',
 
+    'cliff.toml': 'gitcliff-png.svg',
+
     'release-please-manifest.json': 'googlecloud.svg',
     'release-please-config.json': 'googlecloud.svg',
 
