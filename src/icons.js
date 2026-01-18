@@ -265,6 +265,7 @@ const file_icons = {
     'cursorrules': 'cursor.svg',
     'mdc': 'cursor.svg',
     'claude.md': 'claude.svg',
+    'gemini.md': 'gemini-65.svg',
 };
 
 function get_icon_url(file_name) {
