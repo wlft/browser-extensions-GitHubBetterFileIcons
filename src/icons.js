@@ -262,6 +262,9 @@ const file_icons = {
 
     'cname': 'cname.svg',
 
+    'release-please-manifest.json': 'googlecloud.svg',
+    'release-please-config.json': 'googlecloud.svg',
+
     'cursorrules': 'cursor.svg',
     'mdc': 'cursor.svg',
     'claude.md': 'claude.svg',
