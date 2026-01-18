@@ -260,6 +260,8 @@ const file_icons = {
     'vcpkg.json': 'vcpkg.svg',
     'vcpkg-configuration.json': 'vcpkg.svg',
 
+    'cname': 'cname.svg',
+
     'cursorrules': 'cursor.svg',
     'mdc': 'cursor.svg',
     'claude.md': 'claude.svg',
