@@ -2,6 +2,7 @@ import { defineConfig } from 'wxt';
 
 // See https://wxt.dev/api/config.html
 export default defineConfig({
+    srcDir: 'src',
     manifest: {
         name: 'GitHub Better File Icons',
         description: 'Adds icons for various projects and file types on GitHub.',
