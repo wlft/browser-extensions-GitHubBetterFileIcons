@@ -68,6 +68,8 @@ const file_icons = {
     'sublime-workspace': 'sublime.svg',
 
     'lua': 'lua.svg',
+    'luacheckrc': 'lua.svg',
+    'luacov': 'luacov.svg',
 
     'php': 'php.svg',
     'php.ini': 'php.svg',
