@@ -7,7 +7,7 @@
             "extra-files": [
                 "package.json"
             ],
-            "prerelease": true
+            "bump-minor-pre-major": true
         }
     }
 }
