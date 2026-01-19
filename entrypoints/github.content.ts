@@ -48,6 +48,9 @@ export default defineContentScript({
             'drizzle-dev.config.ts': 'drizzle.svg',
             'drizzle-prod.config.ts': 'drizzle.svg',
 
+            'wxt.config.ts': 'wxt.svg',
+            'web-ext.config.ts': 'wxt.svg',
+
             'vue': 'vue.svg',
 
             'luau': 'luau.svg',
