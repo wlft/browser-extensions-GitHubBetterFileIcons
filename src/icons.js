@@ -38,6 +38,10 @@ const file_icons = {
     'vite.config.mjs': 'vite.svg',
     'vite.config.ts': 'vite.svg',
 
+    'drizzle.config.ts': 'drizzle.svg',
+    'drizzle-dev.config.ts': 'drizzle.svg',
+    'drizzle-prod.config.ts': 'drizzle.svg',
+
     'vue': 'vue.svg',
 
     'luau': 'luau.svg',
