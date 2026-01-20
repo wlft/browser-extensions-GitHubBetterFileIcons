@@ -280,6 +280,8 @@ export default defineContentScript({
 
             'cname': 'cname.svg',
 
+            'license': 'license.svg',
+
             'hbs': 'handlebars.svg',
 
             'cliff.toml': 'gitcliff-png.svg',
