@@ -310,6 +310,9 @@ export default defineContentScript({
 
             'localazy.json': 'localazy.svg',
 
+            'sonar': 'sonar.svg',
+            'sonar-project.properties': 'sonar.svg',
+
             'cliff.toml': 'gitcliff-png.svg',
 
             'release-please-manifest.json': 'googlecloud.svg',
