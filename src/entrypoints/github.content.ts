@@ -321,6 +321,8 @@ export default defineContentScript({
             'public': 'public.svg',
             'include': 'include.svg',
             'scripts': 'scripts.svg',
+            'script': 'scripts.svg',
+            'test': 'test.svg',
 
             '.vscode': 'vscode.svg',
             '.github': 'github.svg',
