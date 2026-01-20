@@ -233,6 +233,7 @@ export default defineContentScript({
 
             'bun.lock': 'bun.svg',
             'bun.lockb': 'bun.svg',
+            'bunfig.toml': 'bun.svg',
 
             'tailwind.config.mjs': 'tailwindcss.svg',
             'tailwind.config.js': 'tailwindcss.svg',
