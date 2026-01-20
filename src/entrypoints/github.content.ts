@@ -297,8 +297,8 @@ export default defineContentScript({
             'src': 'src.svg',
             'public': 'public.svg',
 
-            'vscode': 'vscode.svg',
-            'github': 'github.svg',
+            '.vscode': 'vscode.svg',
+            '.github': 'github.svg',
         };
 
         function get_icon_url(file_name: string) {
@@ -353,6 +353,14 @@ export default defineContentScript({
                     if (folder_icons[stem]) {
                         return browser.runtime.getURL(`icons/folders/${folder_icons[stem]}`);
                     };
+                };
+            };
+
+            // 3
+            const s_parts = name_lower.split('/');
+            for (let i = 0; i < s_parts.length; i++) {
+                if (folder_icons[s_parts[i]]) {
+                    return browser.runtime.getURL(`icons/folders/${folder_icons[s_parts[i]]}`);
                 };
             };
 
