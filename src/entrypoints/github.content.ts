@@ -303,7 +303,7 @@ export default defineContentScript({
 
             'cname': 'cname.svg',
 
-            'license': 'license.svg',
+            'license': 'license.svg', // TODO needs -.* matching
             'readme': 'readme.svg',
             'readme.md': 'readme.svg',
             'changelog': 'changelog.svg',
