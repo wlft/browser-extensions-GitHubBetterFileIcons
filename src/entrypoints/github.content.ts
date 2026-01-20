@@ -286,6 +286,9 @@ export default defineContentScript({
             'changelog': 'changelog.svg',
             'changelog.md': 'changelog.svg',
 
+            'todo': 'todo.svg',
+            'todo.md': 'todo.svg',
+
             'hbs': 'handlebars.svg',
 
             'cliff.toml': 'gitcliff-png.svg',
