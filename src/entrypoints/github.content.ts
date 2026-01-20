@@ -43,6 +43,7 @@ export default defineContentScript({
             'vite.config.js': 'vite.svg',
             'vite.config.mjs': 'vite.svg',
             'vite.config.ts': 'vite.svg',
+            'vitest.config.js': 'vitest.svg',
 
             'drizzle.config.ts': 'drizzle.svg',
             'drizzle-dev.config.ts': 'drizzle.svg',
@@ -184,6 +185,11 @@ export default defineContentScript({
 
             'babelrc': 'babel.svg',
             'babel.config': 'babel.svg',
+            'babel.config.js': 'babel.svg',
+            'babel.config.json': 'babel.svg',
+            'babel.config.mjs': 'babel.svg',
+            'babel.config.ts': 'babel.svg', 
+            // TODO add .* matching
 
             'ttf': 'ttf.svg',
             'otf': 'ttf.svg',
