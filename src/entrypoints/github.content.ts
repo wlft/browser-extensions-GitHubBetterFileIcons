@@ -298,6 +298,7 @@ export default defineContentScript({
             'src': 'src.svg',
             'docs': 'docs.svg',
             'public': 'public.svg',
+            'include': 'include.svg',
 
             '.vscode': 'vscode.svg',
             '.github': 'github.svg',
