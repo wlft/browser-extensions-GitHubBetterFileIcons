@@ -12,11 +12,7 @@ export default defineContentScript({
             'ts': 'ts.svg',
             'tsx': 'tsx.svg',
             'jsx': 'jsx.svg',
-            'tsconfig.json': 'ts.svg',
-            'tsconfig-base.json': 'ts.svg',
-            'tsconfig.app.json': 'ts.svg',
-            'tsconfig.node.json': 'ts.svg',
-            'tsconfig.types.json': 'ts.svg',
+            'tsconfig*': 'ts.svg',
 
             'py': 'py.svg',
             'pylintrc': 'py.svg',
@@ -36,18 +32,12 @@ export default defineContentScript({
             'html': 'html.svg',
             'xml': 'xml.svg',
 
-            'next.config.js': 'nextjs.svg',
-            'next.config.mjs': 'nextjs.svg',
-            'next.config.ts': 'nextjs.svg',
+            'next.config*': 'nextjs.svg',
 
-            'vite.config.js': 'vite.svg',
-            'vite.config.mjs': 'vite.svg',
-            'vite.config.ts': 'vite.svg',
-            'vitest.config.js': 'vitest.svg',
+            'vite.config*': 'vite.svg',
+            'vitest.config*': 'vitest.svg',
 
-            'drizzle.config.ts': 'drizzle.svg',
-            'drizzle-dev.config.ts': 'drizzle.svg',
-            'drizzle-prod.config.ts': 'drizzle.svg',
+            'drizzle.config*': 'drizzle.svg',
 
             'wxt.config.ts': 'wxt.svg',
             'web-ext.config.ts': 'wxt.svg',
@@ -189,15 +179,10 @@ export default defineContentScript({
             'stylelintrc.js': 'stylelint.svg',
             'stylelintignore': 'stylelint.svg',
 
-            'webpack.config.js': 'webpack.svg',
+            'webpack.config*': 'webpack.svg',
 
-            'babelrc': 'babel.svg',
-            'babel.config': 'babel.svg',
-            'babel.config.js': 'babel.svg',
-            'babel.config.json': 'babel.svg',
-            'babel.config.mjs': 'babel.svg',
-            'babel.config.ts': 'babel.svg', 
-            // TODO add .* matching
+            'babelrc*': 'babel.svg',
+            'babel.config*': 'babel.svg',
 
             'ttf': 'ttf.svg',
             'otf': 'ttf.svg',
@@ -218,31 +203,19 @@ export default defineContentScript({
             'toml': 'toml.svg',
 
             'svelte': 'svelte.svg',
-            'svelte.config.js': 'svelte.svg',
-            'svelte.config.mjs': 'svelte.svg',
-            'svelte.config.ts': 'svelte.svg',
-            'svelte.config.json': 'svelte.svg',
+            'svelte.config*': 'svelte.svg',
 
             'astro': 'astro.svg',
-            'astro.config.js': 'astro.svg',
-            'astro.config.mjs': 'astro.svg',
-            'astro.config.cjs': 'astro.svg',
-            'astro.config.ts': 'astro.svg',
+            'astro.config*': 'astro.svg',
 
-            'playwright.config.ts': 'playwright.svg',
-            'playwright.config.js': 'playwright.svg',
-            'playwright.config.mjs': 'playwright.svg',
-            'playwright.config.cjs': 'playwright.svg',
+            'playwright.config*': 'playwright.svg',
 
             'knip.ts': 'knip.svg',
             'knip.js': 'knip.svg',
             'knip.mjs': 'knip.svg',
             'knip.cjs': 'knip.svg',
 
-            'jest.config.ts': 'jest.svg',
-            'jest.config.js': 'jest.svg',
-            'jest.config.mjs': 'jest.svg',
-            'jest.config.cjs': 'jest.svg',
+            'jest.config*': 'jest.svg',
 
             'package.json': 'npm.svg',
             'package-lock.json': 'npm.svg',
@@ -265,12 +238,9 @@ export default defineContentScript({
             'bun.lockb': 'bun.svg',
             'bunfig.toml': 'bun.svg',
 
-            'tailwind.config.mjs': 'tailwindcss.svg',
-            'tailwind.config.js': 'tailwindcss.svg',
-            'tailwind.config.ts': 'tailwindcss.svg',
+            'tailwind.config*': 'tailwindcss.svg',
 
-            'postcss.config.mjs': 'postcss.svg',
-            'postcss.config.js': 'postcss.svg',
+            'postcss.config*': 'postcss.svg',
 
             'railway.toml': 'railway.svg',
             'railway.json': 'railway.svg',
@@ -279,10 +249,7 @@ export default defineContentScript({
             'eslintrc': 'eslint.svg',
             'eslintrc.js': 'eslint.svg',
             'eslintignore': 'eslint.svg',
-            'eslint.config.js': 'eslint.svg',
-            'eslint.config.mjs': 'eslint.svg',
-            'eslint.config.cjs': 'eslint.svg',
-            'eslint.config.ts': 'eslint.svg',
+            'eslint.config*': 'eslint.svg',
             'eslintrc.json': 'eslint.svg',
 
             'crowdin.yml': 'crowdin.svg',
@@ -312,7 +279,7 @@ export default defineContentScript({
 
             'cname': 'cname.svg',
 
-            'license': 'license.svg', // TODO needs -.* matching
+            'license*': 'license.svg',
             'readme': 'readme.svg',
             'readme.md': 'readme.svg',
             'changelog': 'changelog.svg',
@@ -327,14 +294,7 @@ export default defineContentScript({
             'cspell.json': 'cspell.svg',
             'cspell.yaml': 'cspell.svg',
             'cspell.yml': 'cspell.svg',
-            'cspell.config.js': 'cspell.svg',
-            'cspell.config.mjs': 'cspell.svg',
-            'cspell.config.cjs': 'cspell.svg',
-            'cspell.config.ts': 'cspell.svg',
-            'cspell.config.json': 'cspell.svg',
-            'cspell.config.yml': 'cspell.svg',
-            'cspell.config.yaml': 'cspell.svg',
-            'cspell.config.toml': 'cspell.svg',
+            'cspell.config*': 'cspell.svg',
 
             'hbs': 'handlebars.svg',
 
@@ -366,10 +326,33 @@ export default defineContentScript({
             '.github': 'github.svg',
         };
 
+        const wildcard_suffix_file_icons: { prefix: string; icon: string }[] = [];
+        for (const key of Object.keys(file_icons)) {
+            if (key.endsWith('*')) {
+                wildcard_suffix_file_icons.push({
+                    prefix: key.slice(0, -1),
+                    icon: file_icons[key],
+                });
+                delete file_icons[key];
+            }
+        }
+
         function get_icon_url(file_name: string) {
             const name_lower = file_name.toLowerCase();
 
             // 1
+            if (file_icons[name_lower]) {
+                return browser.runtime.getURL(`icons/files/${file_icons[name_lower]}`);
+            };
+
+            // 2
+            for (const { prefix, icon } of wildcard_suffix_file_icons) {
+                if (name_lower.startsWith(prefix)) {
+                    return browser.runtime.getURL(`icons/files/${icon}`);
+                }
+            };
+
+            // 3
             const parts = name_lower.split('.');
             for (let i = 0; i < parts.length; i++) {
                 const suffix = parts.slice(i).join('.');
@@ -379,7 +362,7 @@ export default defineContentScript({
                 };
             };
 
-            // 2
+            // 4
             if (name_lower.startsWith('.')) {
                 const after_dot = name_lower.slice(1);
                 const segments = after_dot.split(/[\._-]/);
