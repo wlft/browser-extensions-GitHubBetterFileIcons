@@ -1,5 +1,39 @@
 # Changelog
 
+## [0.5.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.4.0...v0.5.0) (2026-01-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* incorrect wildcard routing for files/folders that begin with .
+* add wildcard support for file/folder matching
+
+### Features
+
+* add wildcard support for file/folder matching ([b81ec8b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b81ec8b22fd68af52f5e62955c62a3210bb1bd91))
+* **icons:** .npmignore ([c253e56](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c253e560c76170ffaed9eebb1d6982fdbf9d4574))
+* **icons:** bunfig.toml ([fbddc39](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/fbddc394ec3e023bc831f89730ba5bc0e5933307))
+* **icons:** changelog ([689c986](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/689c98694764aa2ececee1506ff5dbb932a84865))
+* **icons:** contributing ([a930b97](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/a930b97c98c5657cd40def703d977c89ab3f341b))
+* **icons:** cspell ([b93fb52](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b93fb52adb4d9a7486d6e52fd3cd3a000e099c20))
+* **icons:** jest ([ded97cc](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ded97cc2747c8ecc6b34b5f9dd149d7df5c74fd6))
+* **icons:** knip ([a4bc0b5](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/a4bc0b54883c9a0cb11ca642066f5c57ec2bf4ad))
+* **icons:** localazy ([2a155e4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2a155e4c9232f21105abf95558697b9e38ca2946))
+* **icons:** playwright ([147a1fc](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/147a1fce1c041bf13adadf84c075e4848c2bb64a))
+* **icons:** security ([c8feb03](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c8feb03acca5be6628384f1b7f18de96200050f8))
+* **icons:** sonar ([8d574f3](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/8d574f34aafe1460fd01cda18fddcc28a01c45d5))
+* **icons:** stylelint ([00b9572](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/00b9572b1ec99c33d37f5f7d3c7541a26bd61cec))
+* **icons:** switch .github folder ellipse icon to github logo ([1e3cf37](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1e3cf3791d6afd81feb74885b1d9f3381e9f8632))
+* **icons:** test ([35561ca](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/35561cab0b28f2f351d62f7c23ec6eca67586859))
+* **icons:** todo ([92f4bb4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/92f4bb4cf574f453094641020863cbcd2ab66485))
+* **icons:** vitest ([83415fc](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/83415fcff93c6ad560f0d8c08162fdd8e5506c2b))
+
+
+### Bug Fixes
+
+* **icons:** .eslintrc.js not being matched ([90029ff](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/90029ff3a7886346cd82f97c6df58e50122ff0bc))
+* incorrect wildcard routing for files/folders that begin with . ([ee9adad](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ee9adadc98edadf18d33f001eda5d0970fea4b8d))
+
 ## [0.4.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.3.0...v0.4.0) (2026-01-20)
 
 
