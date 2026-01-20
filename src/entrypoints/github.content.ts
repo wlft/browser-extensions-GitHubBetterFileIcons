@@ -226,6 +226,11 @@ export default defineContentScript({
             'playwright.config.mjs': 'playwright.svg',
             'playwright.config.cjs': 'playwright.svg',
 
+            'knip.ts': 'knip.svg',
+            'knip.js': 'knip.svg',
+            'knip.mjs': 'knip.svg',
+            'knip.cjs': 'knip.svg',
+
             'package.json': 'npm.svg',
             'package-lock.json': 'npm.svg',
             'npmignore': 'npm.svg',
