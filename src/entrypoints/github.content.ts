@@ -296,6 +296,8 @@ export default defineContentScript({
         const folder_icons: Record<string, string> = {
             'src': 'src.svg',
             'public': 'public.svg',
+
+            'vscode': 'vscode.svg',
         };
 
         function get_icon_url(file_name: string) {
