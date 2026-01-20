@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.4.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.3.0...v0.4.0) (2026-01-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* support folders
+
+### Features
+
+* icons for folders now match folders before / ([ff948e1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ff948e130f660ccdd02ab8415ca93d2dd73cc072))
+* **icons:** .github ([bcc9ed8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/bcc9ed8e28a572bf8e7ec7dfced3c2d0c42d047d))
+* **icons:** .vscode ([1839ee2](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1839ee20ad00b659a0b8eddad6aef2a0a5a9e22c))
+* **icons:** docs ([57d8bc6](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/57d8bc6d0ff070ab251b8b072d033205a487e8e4))
+* **icons:** include ([1f84781](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1f84781dd95b1c7b1f80a592070d41729b912db3))
+* **icons:** license ([96a6bca](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/96a6bcad9e2ad7a4385d8863488ca33bfba84f24))
+* **icons:** readme ([1f4c919](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1f4c91929e28bda283f435bd7d17e0c14064933c))
+* **icons:** scripts ([d405217](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/d4052173429cd42ab9aebb92331dfba16703794d))
+* support folders ([dbcf255](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/dbcf255e78db78adad6246d6dc634d0ffd813148))
+
 ## [0.3.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.2.0...v0.3.0) (2026-01-19)
 
 
