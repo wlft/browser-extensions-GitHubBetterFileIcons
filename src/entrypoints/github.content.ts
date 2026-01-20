@@ -217,6 +217,7 @@ export default defineContentScript({
 
             'package.json': 'npm.svg',
             'package-lock.json': 'npm.svg',
+            'npmignore': 'npm.svg',
             'npmrc': 'npm.svg',
             'npmrc.yml': 'npm.svg',
             'nvmrc': 'npm.svg',
