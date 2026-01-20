@@ -221,6 +221,11 @@ export default defineContentScript({
             'astro.config.cjs': 'astro.svg',
             'astro.config.ts': 'astro.svg',
 
+            'playwright.config.ts': 'playwright.svg',
+            'playwright.config.js': 'playwright.svg',
+            'playwright.config.mjs': 'playwright.svg',
+            'playwright.config.cjs': 'playwright.svg',
+
             'package.json': 'npm.svg',
             'package-lock.json': 'npm.svg',
             'npmignore': 'npm.svg',
