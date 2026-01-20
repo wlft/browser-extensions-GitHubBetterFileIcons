@@ -290,6 +290,8 @@ export default defineContentScript({
             'todo.md': 'todo.svg',
             'security': 'security.svg',
             'security.md': 'security.svg',
+            'contributing': 'contributing.svg',
+            'contributing.md': 'contributing.svg',
 
             'cspell.json': 'cspell.svg',
             'cspell.yaml': 'cspell.svg',
