@@ -331,6 +331,7 @@ export default defineContentScript({
 
             '.vscode': 'vscode.svg',
             '.github': 'github.svg',
+            '.husky': 'husky.svg',
         };
 
         const wildcard_suffix_file_icons: { prefix: string; icon: string }[] = [];
