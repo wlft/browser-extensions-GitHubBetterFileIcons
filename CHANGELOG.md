@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.6.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.5.0...v0.6.0) (2026-01-24)
+
+
+### Features
+
+* **icons:** .husky ([72a9c77](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/72a9c773510d76d855227b2a563b281ca3df37b3))
+* **icons:** .i18n ([e45cfb6](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e45cfb6ef18f8269d96f4420b025363b8b530c6d))
+* **icons:** lib ([8c9de46](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/8c9de46daebb4098f436b36e39267ad2f815963c))
+* **icons:** update .luau to latest logo ([6174d6a](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6174d6a48959488326844fe4f2385954849a9949))
+* **icons:** upgrade assets icon ([be87005](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/be87005c036476dd9cbf6f1fbe0372cfea93be01))
+
+
+### Bug Fixes
+
+* **icons:** fix i18n folder not being matched ([12b4828](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/12b4828ac5d1b7eb843253d5c144c48a59bdff82))
+* **icons:** misplaced test.svg icon ([b42a12f](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b42a12f855231d92d0f8cd8f304b73c26147556c))
+* **icons:** some dotfiles not being matched to wildcards ([8335e13](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/8335e1380cea309706ebd178ed8294405dc87854))
+* **icons:** tests folder not matching test icon ([41e522b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/41e522b33cfa63783f6cc7759418fe1c076bc354))
+
 ## [0.5.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.4.0...v0.5.0) (2026-01-20)
 
 
