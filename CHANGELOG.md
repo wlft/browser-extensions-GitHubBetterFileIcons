@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.7.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.6.1...v0.7.0) (2026-01-28)
+
+
+### Features
+
+* **icons:** add /app ([cdbe926](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/cdbe926b7a613e0a3fdb8a05b09672ec2c35ed58))
+* **icons:** biome ([b4440c4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b4440c4cf9a21fec47f05cf4dfa049b66c748847))
+
 ## [0.6.1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.6.0...v0.6.1) (2026-01-26)
 
 
