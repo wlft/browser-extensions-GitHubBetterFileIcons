@@ -174,6 +174,9 @@ export default defineContentScript({
             'stylelintrc*': 'stylelint.svg',
             'stylelintignore': 'stylelint.svg',
 
+            'biome.json': 'biome.svg',
+            'biome.jsonc': 'biome.svg',
+
             'webpack.config*': 'webpack.svg',
 
             'babelrc*': 'babel.svg',
