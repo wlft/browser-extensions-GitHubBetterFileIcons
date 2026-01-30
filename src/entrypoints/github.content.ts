@@ -330,6 +330,8 @@ export default defineContentScript({
             'mdc': 'cursor.svg',
             'claude.md': 'claude.svg',
             'gemini.md': 'gemini-65.svg',
+            'acp': 'acp.svg',
+            'acp.md': 'acp.svg',
         };
 
         const folder_icons: Record<string, string> = {
