@@ -177,6 +177,9 @@ export default defineContentScript({
             'biome.json': 'biome.svg',
             'biome.jsonc': 'biome.svg',
 
+            'oxfmtrc.json': 'oxc.svg',
+            'oxfmtrc.jsonc': 'oxc.svg',
+
             'webpack.config*': 'webpack.svg',
 
             'babelrc*': 'babel.svg',
