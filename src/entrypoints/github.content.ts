@@ -274,8 +274,11 @@ export default defineContentScript({
 
             'swift': 'swift.svg',
             'swift-format': 'swift.svg',
+            'swiftformat': 'swift.svg',
             'swift-lint': 'swift.svg',
+            'swiftlint': 'swift.svg',
             'swift-version': 'swift.svg',
+            'swiftversion': 'swift.svg',
 
             'streerc': 'discourse.svg',
 
