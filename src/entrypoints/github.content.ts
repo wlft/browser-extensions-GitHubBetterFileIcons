@@ -17,6 +17,7 @@ export default defineContentScript({
             'py': 'py.svg',
             'pylintrc': 'py.svg',
             'pyproject.toml': 'pyproject.svg',
+            'ipynb': 'py.svg',
 
             'java': 'java.svg',
 
