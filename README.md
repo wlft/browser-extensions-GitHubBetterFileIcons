@@ -8,3 +8,6 @@ A browser extension to replace github file & folder icons with actual logos/icon
 * .pb
 * .pdf
 * .rst
+* .dat
+* .bin
+* .tmp
