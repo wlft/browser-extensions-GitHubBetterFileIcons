@@ -330,6 +330,7 @@ export default defineContentScript({
             'release-please-config.json': 'googlecloud.svg',
 
             'cursorrules': 'cursor.svg',
+            'cursorignore': 'cursor.svg',
             'mdc': 'cursor.svg',
             'claude.md': 'claude.svg',
             'gemini.md': 'gemini-65.svg',
