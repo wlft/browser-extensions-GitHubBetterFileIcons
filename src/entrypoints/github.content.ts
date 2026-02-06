@@ -165,6 +165,7 @@ export default defineContentScript({
             'wiki': 'mediawiki.svg',
 
             'gitignore': 'git.svg',
+            'gitreview': 'git.svg',
             'git': 'git.svg',
             'gitattributes': 'git.svg',
             'gitmodules': 'git.svg',
