@@ -111,6 +111,7 @@ export default defineContentScript({
             'config': 'config.svg',
             'cfg': 'config.svg',
             'cnfg': 'config.svg',
+            'conf': 'config.svg',
 
             'nuget.config': 'nuget.svg',
 
