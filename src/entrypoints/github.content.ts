@@ -300,6 +300,7 @@ export default defineContentScript({
             'copying': 'license.svg',
             'copyright': 'license.svg',
             'readme': 'readme.svg',
+            'notice': 'readme.svg',
             'readme.md': 'readme.svg',
             'readme-*': 'readme.svg',
             'changelog': 'changelog.svg',
