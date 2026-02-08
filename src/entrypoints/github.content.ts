@@ -156,9 +156,8 @@ export default defineContentScript({
             'gemspec': 'rubygems.svg',
             'gem': 'rubygems.svg',
 
-            'docker-compose.yml': 'docker.svg',
             'd': 'docker.svg',
-            'docker-compose.yaml': 'docker.svg',
+            'docker-compose*': 'docker.svg',
             'dockerignore': 'docker.svg',
             'dockerfile*': 'docker.svg',
 
