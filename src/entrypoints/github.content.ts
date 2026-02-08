@@ -124,6 +124,7 @@ export default defineContentScript({
             'ninja': 'ninja-by-alhadis.svg',
 
             'go': 'go.svg',
+            'golangci*': 'go.svg',
             'go.mod': 'go.svg',
             'go.sum': 'go.svg',
             'textproto': 'go.svg',
