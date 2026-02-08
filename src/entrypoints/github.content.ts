@@ -227,7 +227,7 @@ export default defineContentScript({
             'astro': 'astro.svg',
             'astro.config*': 'astro.svg',
 
-            'playwright.config*': 'playwright.svg',
+            'playwright*': 'playwright.svg',
 
             'knip.ts': 'knip.svg',
             'knip.js': 'knip.svg',
