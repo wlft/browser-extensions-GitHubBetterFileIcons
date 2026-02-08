@@ -125,6 +125,7 @@ export default defineContentScript({
 
             'go': 'go.svg',
             'golangci*': 'go.svg',
+            'goreleaser*': 'go.svg',
             'go.mod': 'go.svg',
             'go.sum': 'go.svg',
             'textproto': 'go.svg',
