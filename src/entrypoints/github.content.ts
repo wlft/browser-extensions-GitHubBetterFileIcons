@@ -12,6 +12,7 @@ export default defineContentScript({
             'ts': 'ts.svg',
             'tsx': 'tsx.svg',
             'jsx': 'jsx.svg',
+            'jsconfig*': 'js.svg',
             'tsconfig*': 'ts.svg',
 
             'py': 'py.svg',
