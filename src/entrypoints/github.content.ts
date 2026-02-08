@@ -173,6 +173,10 @@ export default defineContentScript({
             'git-blame-ignore': 'git.svg',
             'git-blame-ignore-revs': 'git.svg',
 
+            'gitlab': 'gitlab.svg',
+            'gitlab-ci.yml': 'gitlab.svg',
+            'gitlab-ci.yaml': 'gitlab.svg',
+
             'env': 'env.svg',
 
             'prettier': 'prettier.svg',
