@@ -274,6 +274,9 @@ export default defineContentScript({
             'eslint.config*': 'eslint.svg',
             'eslintrc.json': 'eslint.svg',
 
+            'codecov.yml': 'codecov.svg',
+            'codecov.yaml': 'codecov.svg',
+
             'crowdin.yml': 'crowdin.svg',
             'crowdin.yaml': 'crowdin.svg',
 
