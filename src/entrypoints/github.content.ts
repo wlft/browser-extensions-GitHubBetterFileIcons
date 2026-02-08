@@ -34,6 +34,7 @@ export default defineContentScript({
             'xml': 'xml.svg',
 
             'next.config*': 'nextjs.svg',
+            'vercel.json': 'vercel.svg',
 
             'vite.config*': 'vite.svg',
             'vitest*': 'vitest.svg',
