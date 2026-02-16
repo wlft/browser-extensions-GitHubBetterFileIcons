@@ -1,5 +1,43 @@
 # Changelog
 
+## [0.7.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.6.1...v0.7.0) (2026-02-16)
+
+
+### Features
+
+* **icons:** .cursorignore ([e460df8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e460df82e943c25bc44ece899c142ed0bd0e6193))
+* **icons:** .gitreview ([2a12f26](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2a12f2674f20986930d61a02f6ab26a4534520bb))
+* **icons:** .golangci ([3ab51a7](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/3ab51a7c32d61e03c6cb251f079146a8a485633c))
+* **icons:** .ipynb ([71a1c0b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/71a1c0b859cd8858c7e80552163b53198b6ccb6c))
+* **icons:** .oxlintrc ([cf7217d](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/cf7217dd0dbac86b6b6ccd3de688485b23825b5f))
+* **icons:** acp ([1c5be83](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1c5be83a17a9b2803d1bdba41e6319bdefa482d0))
+* **icons:** add /app ([cdbe926](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/cdbe926b7a613e0a3fdb8a05b09672ec2c35ed58))
+* **icons:** bind cnfg to config ([2c8038a](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2c8038aac05cbbe8eb46c1b653cebeec129611af))
+* **icons:** biome ([b4440c4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b4440c4cf9a21fec47f05cf4dfa049b66c748847))
+* **icons:** codecov ([16d4648](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/16d4648fe4410ec9cd64a004e1d61a2cb43387f1))
+* **icons:** conf ([fcd5b77](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/fcd5b772d877ba87c1ebc76d531a0277128f875d))
+* **icons:** extend README icon to languages (e.g., README-zh.md) ([ee0d44d](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ee0d44dc7e0af514620b79d08fc32b4b2d797eb9))
+* **icons:** fly ([eb81023](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/eb81023a0c18c4076252c8a87457b5f2eef09d14))
+* **icons:** gitlab ([ccbd739](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ccbd739d6febd296f4b28045435d69c4a0488801))
+* **icons:** jsconfig ([f9b527c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/f9b527c5e3e7411dc0c5698787e01d0787b5e2bc))
+* **icons:** match .cfg to config.svg ([24028d8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/24028d82d87da971385979105a9bcbdcb8da0c46))
+* **icons:** NOTICE ([35e4fd8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/35e4fd8219fdd5d4d4961233596ddf73747a6f91))
+* **icons:** nx ([84606bb](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/84606bb5be7c28e6407902a9e0ea481768bf9418))
+* **icons:** packages ([0f9524b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/0f9524be6c65f51ac9a6f48089c5a10ffda0d26d))
+* **icons:** renovate ([efb5d9c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/efb5d9c583ce486edf59bb6ccf0eb2e2f92456dc))
+* **icons:** vercel.json ([0de65bb](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/0de65bb6f8d7e6e8c94f3b0f3c32ac561d390503))
+* **icons:** zizmor ([3016a36](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/3016a369b27b003cf5e39c7e97ee10e4bf34f2e7))
+
+
+### Bug Fixes
+
+* **icons:** docker not being matched to Dockerfile* ([2357588](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/23575884950bd8256863b9059a5fdf2503268920))
+* **icons:** expand docker-compose matching ([4812066](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/481206632b07e2a70f7e712bdc100e6c5aa439d3))
+* **icons:** expend vitest matching to vitest* ([1e33f0b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1e33f0b354bd6f90701c3361f93a261d60da9af9))
+* **icons:** improve playwright matching ([5b4ed38](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/5b4ed38a8d01efd1742d4200635fcc84bb6bbaa1))
+* **icons:** other swift config files not being matched ([1f2fb7b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1f2fb7b474472ab022d3525079914784d739f199))
+* **icons:** swift logo not matching to swiftformat, swiftlint, swiftversion ([b8b891b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b8b891b9b03fc97698322ea740963c34ebb3ea89))
+
 ## [0.6.1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.6.0...v0.6.1) (2026-01-26)
 
 
