@@ -12,7 +12,8 @@ A browser extension to replace github file & folder icons with actual logos/icon
 * .bin
 * .tmp
 
-### due to complex logos:
+### Due to complex logos:
 
 * Lerna
 * Clang
+* .editorconfig
