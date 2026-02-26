@@ -236,6 +236,7 @@ export default defineContentScript({
 
             'jest.config*': 'jest.svg',
             'nx.json': 'nx.svg',
+            'nxignore': 'nx.svg',
 
             'package.json': 'npm.svg',
             'package-lock.json': 'npm.svg',
