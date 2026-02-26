@@ -258,6 +258,9 @@ export default defineContentScript({
             'bun.lockb': 'bun.svg',
             'bunfig.toml': 'bun.svg',
 
+            'markdownlint.json': 'nodejs.svg',
+            'markdownlintignore': 'nodejs.svg',
+
             'renovate.json': 'renovate.svg',
 
             'tailwind.config*': 'tailwindcss.svg',
