@@ -290,6 +290,9 @@ export default defineContentScript({
             'crowdin.yml': 'crowdin.svg',
             'crowdin.yaml': 'crowdin.svg',
 
+            'i18next.config.ts': 'i18next.svg',
+            'i18next*': 'i18next.svg',
+
             'iml': 'intellij_idea.svg',
 
             'svg': 'svg.svg',
