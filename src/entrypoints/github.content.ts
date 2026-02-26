@@ -120,8 +120,7 @@ export default defineContentScript({
 
             'sh': 'bash.svg',
 
-            'lefthook.yml': 'lefthook.svg',
-            'lefthook.yaml': 'lefthook.svg',
+            'lefthook*': 'lefthook.svg',
 
             'gn': 'ninja-by-alhadis.svg',
             'ninja': 'ninja-by-alhadis.svg',
