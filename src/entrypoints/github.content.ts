@@ -10,6 +10,7 @@ export default defineContentScript({
             'mjs': 'es.svg',
             'jsdoc': 'js.svg',
             'ts': 'ts.svg',
+            'mts': 'ts.svg',
             'tsx': 'tsx.svg',
             'jsx': 'jsx.svg',
             'jsconfig*': 'js.svg',
