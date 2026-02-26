@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.8.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.7.0...v0.8.0) (2026-02-26)
+
+
+### Features
+
+* **icons:** browserslint ([349d2b2](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/349d2b203952124a7d286ef2e43e0cda74d42ff9))
+* **icons:** i18next ([3ff77a5](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/3ff77a570828dbe61f24bb80d9eef62aaa369369))
+* **icons:** jsr ([de20114](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/de201149bce7c7bdd41bc082590f521391d49fc2))
+* **icons:** markdownlint ([22cdc47](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/22cdc47733193c207fd187b814d15a5ee6e49952))
+* **icons:** mts ([170d4f0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/170d4f0410782231372c36cbfec96bdda7eb5656))
+
+
+### Bug Fixes
+
+* **icons:** i18next not matching to correct svg location ([a55b665](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/a55b665961c73313c5a9d877816246a2660d7f35))
+* **icons:** lefthook matching ([e3e342f](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e3e342f4f880b7b2a3b7c56758bba781d06642ca))
+* **icons:** markdown not matching to md ([c1c86f4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c1c86f4e48774c11244067523b7cd1ae07b40cfe))
+* **icons:** missing match for .nxignore ([2e2c760](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2e2c76099f0e9722246e5571293b2fef2cba1078))
+* **icons:** missing match for tsconfig.lint.json ([ab70fdc](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ab70fdc9f1dd920bab993e1844ae96550158add0))
+
 ## [0.7.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.6.1...v0.7.0) (2026-02-16)
 
 
