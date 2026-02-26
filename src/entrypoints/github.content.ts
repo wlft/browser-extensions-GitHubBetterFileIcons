@@ -280,6 +280,9 @@ export default defineContentScript({
             'codecov.yml': 'codecov.svg',
             'codecov.yaml': 'codecov.svg',
 
+            'djlintrc': 'djlint.svg',
+            'djlintrc.json': 'djlint.svg',
+
             'crowdin.yml': 'crowdin.svg',
             'crowdin.yaml': 'crowdin.svg',
 
