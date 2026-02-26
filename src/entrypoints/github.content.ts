@@ -283,6 +283,9 @@ export default defineContentScript({
             'djlintrc': 'djlint.svg',
             'djlintrc.json': 'djlint.svg',
 
+            'browserslist': 'browserslist.svg',
+            'browserslistrc': 'browserslist.svg',
+
             'crowdin.yml': 'crowdin.svg',
             'crowdin.yaml': 'crowdin.svg',
 
