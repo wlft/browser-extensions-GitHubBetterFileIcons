@@ -277,6 +277,7 @@ export default defineContentScript({
             'eslintignore': 'eslint.svg',
             'eslint.config*': 'eslint.svg',
             'eslintrc.json': 'eslint.svg',
+            'tsconfig.lint.json': 'eslint.svg',
 
             'codecov.yml': 'codecov.svg',
             'codecov.yaml': 'codecov.svg',
