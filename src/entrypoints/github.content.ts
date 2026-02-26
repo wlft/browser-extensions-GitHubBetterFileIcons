@@ -214,6 +214,7 @@ export default defineContentScript({
             'zensical.toml': 'zensical.svg',
 
             'md': 'md.svg',
+            'markdown': 'md.svg',
             'mdx': 'mdx.svg',
             'csv': 'csv.svg',
 
