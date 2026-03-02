@@ -175,6 +175,7 @@ export default defineContentScript({
             'gitmodules': 'git.svg',
             'git-blame-ignore': 'git.svg',
             'git-blame-ignore-revs': 'git.svg',
+            'pre-commit': 'git.svg',
 
             'gitlab': 'gitlab.svg',
             'gitlab-ci.yml': 'gitlab.svg',
