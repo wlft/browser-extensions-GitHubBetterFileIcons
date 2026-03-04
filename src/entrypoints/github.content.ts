@@ -394,6 +394,8 @@ export default defineContentScript({
 
             'packages': 'packages.svg',
 
+            'convex': 'convex.svg',
+
             'include': 'include.svg',
             'scripts': 'scripts.svg',
             'script': 'scripts.svg',
