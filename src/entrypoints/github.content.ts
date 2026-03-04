@@ -391,6 +391,7 @@ export default defineContentScript({
             '.library': 'lib.svg',
             
             'app': 'app.svg',
+            'apps': 'app.svg',
 
             'packages': 'packages.svg',
 
