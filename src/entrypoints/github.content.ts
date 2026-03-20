@@ -318,6 +318,11 @@ export default defineContentScript({
             'swift-version*': 'swift.svg',
             'swiftversion*': 'swift.svg',
 
+            'wrangler.toml': 'cloudflare.svg',
+            'wrangler.json': 'cloudflare.svg',
+            'wrangler.jsonc': 'cloudflare.svg',
+            'worker-configuration.d.ts': 'cloudflare.svg', // TODO use worker logo instead
+
             'streerc': 'discourse.svg',
 
             'vcpkg.json': 'vcpkg.svg',
