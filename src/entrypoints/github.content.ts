@@ -167,6 +167,7 @@ export default defineContentScript({
             'localsettings.php': 'mediawiki.svg',
             'wikitext': 'mediawiki.svg',
             'wiki': 'mediawiki.svg',
+            'mediawiki': 'mediawiki.svg',
 
             'gitignore': 'git.svg',
             'gitreview': 'git.svg',
