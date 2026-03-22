@@ -319,9 +319,9 @@ export default defineContentScript({
             'swift-version*': 'swift.svg',
             'swiftversion*': 'swift.svg',
 
-            'wrangler.toml': 'cloudflare.svg',
-            'wrangler.json': 'cloudflare.svg',
-            'wrangler.jsonc': 'cloudflare.svg',
+            'wrangler.toml': 'wrangler.svg',
+            'wrangler.json': 'wrangler.svg',
+            'wrangler.jsonc': 'wrangler.svg',
             'worker-configuration.d.ts': 'workers.svg',
 
             'streerc': 'discourse.svg',
