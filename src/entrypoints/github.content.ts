@@ -322,7 +322,7 @@ export default defineContentScript({
             'wrangler.toml': 'cloudflare.svg',
             'wrangler.json': 'cloudflare.svg',
             'wrangler.jsonc': 'cloudflare.svg',
-            'worker-configuration.d.ts': 'cloudflare.svg', // TODO use worker logo instead
+            'worker-configuration.d.ts': 'workers.svg',
 
             'streerc': 'discourse.svg',
 
