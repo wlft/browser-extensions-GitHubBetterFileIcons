@@ -325,6 +325,7 @@ export default defineContentScript({
             'worker-configuration.d.ts': 'workers.svg',
 
             'streerc': 'discourse.svg',
+            'discourse-compatibility': 'discourse.svg',
 
             'vcpkg.json': 'vcpkg.svg',
             'vcpkg-configuration.json': 'vcpkg.svg',
