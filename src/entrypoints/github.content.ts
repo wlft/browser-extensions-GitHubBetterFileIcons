@@ -84,6 +84,7 @@ export default defineContentScript({
             'luacov': 'luacov.svg',
 
             'php': 'php.svg',
+            'phpcs': 'php.svg',
             'php.ini': 'php.svg',
 
             'cpp': 'cpp.svg',
