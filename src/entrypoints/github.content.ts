@@ -202,7 +202,7 @@ export default defineContentScript({
             'oxlintrc.json': 'oxc.svg',
             'oxlintrc.jsonc': 'oxc.svg',
 
-            'webpack.config*': 'webpack.svg',
+            'webpack*': 'webpack.svg',
 
             'babelrc*': 'babel.svg',
             'babel.config*': 'babel.svg',
