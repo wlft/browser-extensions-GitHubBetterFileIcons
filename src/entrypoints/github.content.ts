@@ -85,6 +85,7 @@ export default defineContentScript({
 
             'php': 'php.svg',
             'phpcs': 'php.svg',
+            'phpunit': 'php.svg',
             'php.ini': 'php.svg',
 
             'cpp': 'cpp.svg',
