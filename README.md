@@ -2,6 +2,8 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/wlft/browser-extensions-GitHubBetterFileIcons)
 
+![GitHub all releases](https://img.shields.io/github/downloads/wlft/browser-extensions-GitHubBetterFileIcons/total)
+
 ![Preview](screen.png)
 
 A browser extension to replace github file & folder icons with actual logos/icons.
