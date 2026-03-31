@@ -1,8 +1,7 @@
 # Better GitHub File Icons
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/wlft/browser-extensions-GitHubBetterFileIcons)
-
-![GitHub all releases](https://img.shields.io/github/downloads/wlft/browser-extensions-GitHubBetterFileIcons/total)
+![GitHub downloads](https://img.shields.io/github/downloads/wlft/browser-extensions-GitHubBetterFileIcons/total)
 
 ![Preview](screen.png)
 
