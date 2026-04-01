@@ -239,6 +239,7 @@ export default defineContentScript({
             'knip.js': 'knip.svg',
             'knip.mjs': 'knip.svg',
             'knip.cjs': 'knip.svg',
+            'knip.json': 'knip.svg',
 
             'jest.config*': 'jest.svg',
             'nx.json': 'nx.svg',
