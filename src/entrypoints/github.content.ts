@@ -238,6 +238,8 @@ export default defineContentScript({
 
             'ungoogled_chromium': 'ungoogled-chromium.svg',
 
+            'nix': 'nix.svg',
+
             'md': 'md.svg',
             'markdown': 'md.svg',
             'mdx': 'mdx.svg',
