@@ -373,6 +373,8 @@ export default defineContentScript({
             'security.md': 'security.svg',
             'contributing': 'contributing.svg',
             'contributing.md': 'contributing.svg',
+            'authors': 'authors.svg',
+            'authors.md': 'authors.svg',
 
             'cspell.json': 'cspell.svg',
             'cspell.yaml': 'cspell.svg',
