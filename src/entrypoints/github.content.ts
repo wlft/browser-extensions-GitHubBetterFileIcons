@@ -388,6 +388,7 @@ export default defineContentScript({
             'mdc': 'cursor.svg',
             'claude.md': 'claude.svg',
             'gemini.md': 'gemini-65.svg',
+            'geminiignore': 'gemini-65.svg',
             'acp': 'acp.svg',
             'acp.md': 'acp.svg',
         };
