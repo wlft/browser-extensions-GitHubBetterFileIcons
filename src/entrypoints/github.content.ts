@@ -20,6 +20,7 @@ export default defineContentScript({
             'pylintrc': 'py.svg',
             'pyproject.toml': 'pyproject.svg',
             'ipynb': 'py.svg',
+            'python-version': 'py.svg',
 
             'java': 'java.svg',
 
