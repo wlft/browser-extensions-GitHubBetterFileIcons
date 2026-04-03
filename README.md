@@ -2,6 +2,7 @@
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/wlft/browser-extensions-GitHubBetterFileIcons)
 ![GitHub downloads](https://img.shields.io/github/downloads/wlft/browser-extensions-GitHubBetterFileIcons/total)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/wlft/browser-extensions-GitHubBetterFileIcons)
 
 ![Preview](screen.png)
 
