@@ -196,7 +196,7 @@ export default defineContentScript({
             'gitlab-ci.yaml': 'gitlab.svg',
 
             'cirrus.yml': 'cirrus.svg',
-            'cirrus_Dockerfile': 'cirrus.svg',
+            'cirrus_dockerfile': 'cirrus.svg',
             'cirrus_requirements.txt': 'cirrus.svg',
 
             'env': 'env.svg',
