@@ -123,6 +123,9 @@ export default defineContentScript({
 
             'nuget.config': 'nuget.svg',
 
+            'vim': 'vim.svg',
+            'vimrc': 'vim.svg',
+
             'sh': 'bash.svg',
 
             'lefthook*': 'lefthook.svg',
