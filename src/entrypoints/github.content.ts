@@ -188,6 +188,7 @@ export default defineContentScript({
             'git-blame-ignore': 'git.svg',
             'git-blame-ignore-revs': 'git.svg',
             'pre-commit': 'git.svg',
+            'mailmap': 'git.svg',
 
             'gitlab': 'gitlab.svg',
             'gitlab-ci.yml': 'gitlab.svg',
