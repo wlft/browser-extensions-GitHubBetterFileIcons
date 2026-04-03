@@ -23,4 +23,3 @@ Additional icons sourced from [Google Material Symbols 3](https://github.com/goo
 
 * Lerna
 * Clang
-* .editorconfig
