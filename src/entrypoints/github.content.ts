@@ -409,40 +409,40 @@ export default defineContentScript({
 
         const folder_icons: Record<string, string> = {
             // unlike file_icons, folder_icons entries should begin with a `.` if necessary
-            'src': 'src.svg',
-            'source': 'src.svg',
-            'docs': 'docs.svg',
+            'src': 'src',
+            'source': 'src',
+            'docs': 'docs',
 
-            'public': 'public.svg',
-            'images': 'public.svg',
-            'assets': 'assets.svg',
+            'public': 'public',
+            'images': 'public',
+            'assets': 'assets',
 
-            'i18n': 'i18n.svg',
-            '.i18n': 'i18n.svg',
+            'i18n': 'i18n',
+            '.i18n': 'i18n',
 
-            'lib': 'lib.svg',
-            '.lib': 'lib.svg',
-            'libs': 'lib.svg',
-            '.libs': 'lib.svg',
-            'library': 'lib.svg',
-            '.library': 'lib.svg',
+            'lib': 'lib',
+            '.lib': 'lib',
+            'libs': 'lib',
+            '.libs': 'lib',
+            'library': 'lib',
+            '.library': 'lib',
             
-            'app': 'app.svg',
-            'apps': 'app.svg',
+            'app': 'app',
+            'apps': 'app',
 
-            'packages': 'packages.svg',
+            'packages': 'packages',
 
-            'convex': 'convex.svg',
+            'convex': 'convex',
 
-            'include': 'include.svg',
-            'scripts': 'scripts.svg',
-            'script': 'scripts.svg',
-            'test': 'test.svg',
-            'tests': 'test.svg',
+            'include': 'include',
+            'scripts': 'scripts',
+            'script': 'scripts',
+            'test': 'test',
+            'tests': 'test',
 
-            '.vscode': 'vscode.svg',
-            '.github': 'github.svg',
-            '.husky': 'husky.svg',
+            '.vscode': 'vscode',
+            '.github': 'github',
+            '.husky': 'husky',
         };
 
         const wildcard_suffix_file_icons: { prefix: string; icon: string }[] = [];
@@ -512,7 +512,7 @@ export default defineContentScript({
                 const suffix = parts.slice(i).join('.');
                 if (!suffix) continue;
                 if (folder_icons[suffix]) {
-                    return browser.runtime.getURL(`icons/folders/${folder_icons[suffix]}`);
+                    return browser.runtime.getURL(`icons/folders/${folder_icons[suffix]}.svg`);
                 };
             };
 
@@ -524,7 +524,7 @@ export default defineContentScript({
                 if (segments.length > 0 && segments[0]) {
                     const stem = segments[0];
                     if (folder_icons[stem]) {
-                        return browser.runtime.getURL(`icons/folders/${folder_icons[stem]}`);
+                        return browser.runtime.getURL(`icons/folders/${folder_icons[stem]}.svg`);
                     };
                 };
             };
@@ -533,7 +533,7 @@ export default defineContentScript({
             const s_parts = name_lower.split('/');
             for (let i = 0; i < s_parts.length; i++) {
                 if (folder_icons[s_parts[i]]) {
-                    return browser.runtime.getURL(`icons/folders/${folder_icons[s_parts[i]]}`);
+                    return browser.runtime.getURL(`icons/folders/${folder_icons[s_parts[i]]}.svg`);
                 };
             };
 
