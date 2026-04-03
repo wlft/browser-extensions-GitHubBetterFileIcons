@@ -230,6 +230,11 @@ export default defineContentScript({
 
             'zensical.toml': 'zensical.svg',
 
+            'chromium_os': 'chromium.svg',
+            'chromium-version': 'chromium.svg',
+            'chromium_version': 'chromium.svg',
+            'chromium_version.txt': 'chromium.svg',
+
             'md': 'md.svg',
             'markdown': 'md.svg',
             'mdx': 'mdx.svg',
