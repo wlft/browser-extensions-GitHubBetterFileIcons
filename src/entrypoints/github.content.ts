@@ -120,7 +120,8 @@ export default defineContentScript({
             'cnfg': 'config.svg',
             'conf': 'config.svg',
             'ini': 'config.svg',
-            'version': 'config.svg',
+            'version*': 'config.svg',
+            'revision*': 'config.svg',
             'yapf': 'config.svg',
 
             'nuget.config': 'nuget.svg',
