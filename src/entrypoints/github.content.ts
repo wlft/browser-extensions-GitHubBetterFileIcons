@@ -236,6 +236,8 @@ export default defineContentScript({
             'chromium_version': 'chromium.svg',
             'chromium_version.txt': 'chromium.svg',
 
+            'ungoogled_chromium': 'ungoogled-chromium.svg',
+
             'md': 'md.svg',
             'markdown': 'md.svg',
             'mdx': 'mdx.svg',
