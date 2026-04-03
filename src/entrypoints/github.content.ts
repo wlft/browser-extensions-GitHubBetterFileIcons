@@ -101,6 +101,7 @@ export default defineContentScript({
 
             'vscode': 'vscode.svg',
             'vsconfig': 'vscode.svg',
+            'vscodeignore': 'vscode.svg',
             'code-workspace': 'vscode.svg',
 
             'sln': 'vs.svg',
