@@ -123,6 +123,7 @@ export default defineContentScript({
             'version*': 'config.svg',
             'revision*': 'config.svg',
             'yapf': 'config.svg',
+            'flake8': 'config.svg',
 
             'nuget.config': 'nuget.svg',
 
