@@ -80,6 +80,7 @@ export default defineContentScript({
             'sublime-workspace': 'sublime.svg',
 
             'lua': 'lua.svg',
+            'luarc': 'lua.svg',
             'luacheckrc': 'lua.svg',
             'luacov': 'luacov.svg',
 
