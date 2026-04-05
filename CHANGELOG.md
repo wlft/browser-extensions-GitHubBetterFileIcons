@@ -1,5 +1,52 @@
 # Changelog
 
+## [0.9.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.8.0...v0.9.0) (2026-04-05)
+
+
+### Features
+
+* **folders:** dist ([02d8f53](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/02d8f5364cb9dbf82362ca0d663908000f85fb5e))
+* **icons:** .discourse-compatibility ([45cf859](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/45cf8599a0e3f832efb8efd14e1322b7af1fabeb))
+* **icons:** .geminiignore ([4245aa1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/4245aa1764783603c357c380242e9687bbea20fe))
+* **icons:** .gitallowed ([e80dfd6](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e80dfd6f2759fa1e2caf106fea5aa1b7ec37eca3))
+* **icons:** .ignore ([8e8392f](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/8e8392febdbc3e41bab042d71fb5f445f7e2a6b2))
+* **icons:** .luarc ([1d7df23](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1d7df23685021cc21523c84dadbf43369a88b756))
+* **icons:** .mailmap ([2f8e45f](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2f8e45f455b192b534abd44ec8c3684905403300))
+* **icons:** .mediawiki ([643e440](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/643e440857d6b6673a55b5df01c45aa034aa69ae))
+* **icons:** .python-version ([eedf1f4](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/eedf1f4fbcdc786210cf4c3651c683eef9dbf1b4))
+* **icons:** .vpyhton3 ([87ed914](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/87ed9146c8f11b2f08759bdb5ef664310af3b9ad))
+* **icons:** .vscodeignore ([ca092c6](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ca092c652316b0bfe2d11b7cfa556dbbf185df09))
+* **icons:** AUTHORS ([b368d73](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b368d73cb4f8affabc9c947c76fb6ad60357bed6))
+* **icons:** chromium ([0039823](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/0039823a865abf77f56a8639613069694669481f))
+* **icons:** cirrus ci ([d4a9530](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/d4a953058b20a0a46c824c504935e8975cbf36d3))
+* **icons:** extend webpack matching ([7349e18](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/7349e183658e925c9449b2f4ccf22df5c717daf4))
+* **icons:** flake8 ([4d77c4e](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/4d77c4ec491a68bd4414b72029d0e4f16f138211))
+* **icons:** ini ([ee57235](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/ee5723566673e65dbbdc7d3105fa4ce07fcd47c7))
+* **icons:** nix ([26ec485](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/26ec4858244a9a6caef13d8161c812a43bf86c25))
+* **icons:** phpcs ([2b90435](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2b90435e2cebb99cacaf595cbdcfd19504382b53))
+* **icons:** phpunit ([670886e](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/670886eb475c29261043f2739ff17ac520e955e8))
+* **icons:** revision ([6726c6b](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6726c6bcb4819e4e15472edfd7e43e54ef619499))
+* **icons:** ungoogled chromium ([54ae779](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/54ae779365c40bd2180f062b8b709421ad649225))
+* **icons:** version (fallback) ([62cd874](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/62cd8741b346806db9b498c2f33803e603502422))
+* **icons:** vim ([7f23835](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/7f23835ec9b045876a3f76a8bc31b53c44c2dc23))
+* **icons:** wikiwire ([6cc6879](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6cc6879bc08e885b515ecabd0c2b670a2eddfbb9))
+* **icons:** workers ([237eda0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/237eda08262164372784d138a73b753177cbfca7))
+* **icons:** wrangler ([c3905e5](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c3905e566c4a7a55d5be3da748e24e7309fb5cd5))
+* **icons:** wrangler ([852c586](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/852c586bd7a52156d040bf02653d9c961244258f))
+* **icons:** yapf ([bb13217](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/bb13217f99b98596af8f44ba3d1188fba34371dd))
+
+
+### Bug Fixes
+
+* **icons:** capital letter typo in cirrus dockerfile entry ([7f3ee3c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/7f3ee3caf57d9fc2481833deef8eebb76badc7ea))
+* **icons:** improve darklua matching ([6682196](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6682196cfe476789590bce067c0ba38759fda6c7))
+* **icons:** knip.json not matching to knip ([b146577](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b146577f6cafd564ba25154075a3646fd872c64c))
+
+
+### Performance Improvements
+
+* **folders:** trim off unnecessary .svg in folders matching ([1353de6](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1353de627fdafbcf5378594e9e562788662e2e0c))
+
 ## [0.8.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.7.0...v0.8.0) (2026-03-04)
 
 
