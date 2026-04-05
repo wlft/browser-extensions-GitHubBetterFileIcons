@@ -181,6 +181,8 @@ export default defineContentScript({
             'wikitext': 'mediawiki.svg',
             'wiki': 'mediawiki.svg',
             'mediawiki': 'mediawiki.svg',
+            'wikiwire.toml': 'wikiwire.svg',
+            'wikiwireignore': 'wikiwire.svg',
 
             'gitignore': 'git.svg',
             'gitallowed': 'git.svg',
