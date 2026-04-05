@@ -413,6 +413,7 @@ export default defineContentScript({
             // unlike file_icons, folder_icons entries should begin with a `.` if necessary
             'src': 'src',
             'source': 'src',
+            'dist': 'dist',
             'docs': 'docs',
 
             'public': 'public',
