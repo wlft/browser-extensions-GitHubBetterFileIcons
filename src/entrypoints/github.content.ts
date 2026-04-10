@@ -55,6 +55,8 @@ export default defineContentScript({
             'vue': 'vue.svg',
 
             'expo*': 'expo.svg',
+            'altsource.json': 'altstore.svg',
+            'altstore': 'altstore.svg',
 
             'luau': 'luau.svg',
             'luaurc': 'luau.svg',
