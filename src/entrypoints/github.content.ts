@@ -336,6 +336,9 @@ export default defineContentScript({
 
             'iml': 'intellij_idea.svg',
 
+            'action.yml': 'actions.svg',
+            'action.yaml': 'actions.svg',
+
             'svg': 'svg.svg',
             'png': 'image.svg',
             'jpg': 'image.svg',
