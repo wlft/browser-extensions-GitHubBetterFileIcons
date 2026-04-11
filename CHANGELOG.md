@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.10.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.9.0...v0.10.0) (2026-04-11)
+
+
+### Features
+
+* **icons:** actions ([368e4e8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/368e4e89965b6b35a132a56384797a5426e8377d))
+* **icons:** altsource/altstore ([c904781](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c9047810ba5722443f540b5429bb5049a18e408d))
+* **icons:** expo ([e15678c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e15678cb5273c3fb0928f82cd98105f1a70a888e))
+
 ## [0.9.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.8.0...v0.9.0) (2026-04-05)
 
 
