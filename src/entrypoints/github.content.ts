@@ -397,6 +397,8 @@ export default defineContentScript({
 
             'localazy.json': 'localazy.svg',
 
+            'netlify*': 'localazy.svg',
+
             'sonar': 'sonar.svg',
             'sonar-project.properties': 'sonar.svg',
 
