@@ -1,0 +1,6 @@
+onlyBuiltDependencies:
+  - wxt
+  - typescript
+
+minimumReleaseAge: 1440
+blockExoticSubdeps: true
