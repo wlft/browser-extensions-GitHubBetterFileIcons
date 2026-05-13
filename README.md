@@ -6,7 +6,7 @@
 
 ![Preview](screen.png)
 
-A browser extension to replace github file & folder icons with actual logos/icons.
+A browser extension to replace github file & folder icons with actual logos/icons. Supports **300+** files from both popular and niche lanagues, tooling, and other software.
 
 Additional icons sourced from [Google Material Symbols 3](https://github.com/google/material-design-icons), but they may be modified.
 
