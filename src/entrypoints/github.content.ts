@@ -297,6 +297,8 @@ export default defineContentScript({
             'bun.lockb': 'bun.svg',
             'bunfig.toml': 'bun.svg',
 
+            'deno.json': 'deno.svg',
+
             'markdownlint.json': 'nodejs.svg',
             'markdownlintignore': 'nodejs.svg',
 
