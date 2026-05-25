@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.10.1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.10.0...v0.10.1) (2026-05-25)
+
+
+### Bug Fixes
+
+* pnpm-workspace misconfiguration ([747411d](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/747411d7e4326d92b6eafe35e00de2fd1a9f9727))
+
 ## [0.10.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.9.0...v0.10.0) (2026-05-25)
 
 
