@@ -191,6 +191,7 @@ export default defineContentScript({
             'gitignore': 'git.svg',
             'gitallowed': 'git.svg',
             'gitreview': 'git.svg',
+            'gitkeep': 'git.svg',
             'git': 'git.svg',
             'gitattributes': 'git.svg',
             'gitmodules': 'git.svg',
