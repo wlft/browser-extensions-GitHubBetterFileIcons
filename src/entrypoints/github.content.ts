@@ -315,6 +315,7 @@ export default defineContentScript({
 
             'eslintrc': 'eslint.svg',
             'eslintrc.js': 'eslint.svg',
+            'eslintrc.cjs': 'eslint.svg',
             'eslintignore': 'eslint.svg',
             'eslint.config*': 'eslint.svg',
             'eslintrc.json': 'eslint.svg',
