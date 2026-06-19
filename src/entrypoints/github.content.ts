@@ -138,6 +138,7 @@ export default defineContentScript({
             'sh': 'bash.svg',
 
             'sql': 'sql.svg',
+            'sqlite': 'sqlite-lighter.svg',
 
             'lefthook*': 'lefthook.svg',
 
