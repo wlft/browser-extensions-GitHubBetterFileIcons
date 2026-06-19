@@ -137,6 +137,8 @@ export default defineContentScript({
 
             'sh': 'bash.svg',
 
+            'sql': 'sql.svg',
+
             'lefthook*': 'lefthook.svg',
 
             'gn': 'ninja-by-alhadis.svg',
