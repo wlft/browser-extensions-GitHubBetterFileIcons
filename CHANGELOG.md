@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.11.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.10.1...v0.11.0) (2026-06-27)
+
+
+### Features
+
+* **icons:** .gitkeep ([869ef18](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/869ef1803468249ccc62d40d18cf87108c5559fa))
+* **icons:** make docker-compose pink ([de9e1b3](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/de9e1b30773a3b736a1a5e35632b2e1f4c08cffb))
+* **icons:** nginx ([6528329](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6528329b4f5ca4cea67368dbaf5f3e7ff35dded1))
+* **icons:** sql ([da7cc73](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/da7cc732a8e66288821707707669148dc27e618d))
+* **icons:** sqlite ([e9ff059](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/e9ff059714c79338676942091d93738476f803f5))
+
+
+### Bug Fixes
+
+* **icons:** match eslintrc to cjs version ([2ba14e8](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/2ba14e8619bb87ce1fb95c4599fbe676fcf99743))
+
 ## [0.10.1](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.10.0...v0.10.1) (2026-05-25)
 
 
