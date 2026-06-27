@@ -181,6 +181,8 @@ export default defineContentScript({
             'dockerignore': 'docker.svg',
             'dockerfile*': 'docker.svg',
 
+            'nginx.conf': 'nginx.svg',
+
             'turbo.json': 'turborepo.svg',
             'turbo.jsonc': 'turborepo.svg',
 
