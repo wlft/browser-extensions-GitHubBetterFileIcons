@@ -466,6 +466,7 @@ export default defineContentScript({
             '.vscode': 'vscode',
             '.github': 'github',
             '.husky': 'husky',
+            '.moonwave': 'moonwave',
         };
 
         const wildcard_suffix_file_icons: { prefix: string; icon: string }[] = [];
