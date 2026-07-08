@@ -463,6 +463,8 @@ export default defineContentScript({
             'test': 'test',
             'tests': 'test',
 
+            'mediawiki': 'mediawiki',
+
             '.vscode': 'vscode',
             '.github': 'github',
             '.husky': 'husky',
