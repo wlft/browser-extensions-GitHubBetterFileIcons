@@ -348,6 +348,9 @@ export default defineContentScript({
             'action.yml': 'actions.svg',
             'action.yaml': 'actions.svg',
 
+            'dependabot.yml': 'dependabot.svg',
+            'dependabot.yaml': 'dependabot.svg',
+
             'svg': 'svg.svg',
             'png': 'image.svg',
             'jpg': 'image.svg',
