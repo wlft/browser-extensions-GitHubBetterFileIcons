@@ -5,7 +5,7 @@ export default defineConfig({
     srcDir: 'src',
     manifest: {
         name: 'GitHub Better File Icons',
-        description: 'Adds icons for various projects and file types on GitHub.',
+        description: 'A browser extension which adds icons for various projects, file types, and folders on GitHub.',
         icons: {
             48: 'icons/extension/48.png'
         },
