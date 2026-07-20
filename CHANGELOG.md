@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.12.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.11.0...v0.12.0) (2026-07-20)
+
+
+### Features
+
+* **icons:** .moonwave ([58d5a0d](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/58d5a0dce23b2f1e7f9ed18b7f46977ca6a9d030))
+* **icons:** mediawiki folder ([8500fa5](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/8500fa549e4c20d5612c3e36e0c88ae1837ab87c))
+
 ## [0.11.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.10.1...v0.11.0) (2026-06-27)
 
 
