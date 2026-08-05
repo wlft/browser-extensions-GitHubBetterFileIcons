@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "typescript": "^7.0.2",
-    "wxt": "^0.21.1",
+    "wxt": "^0.21.3",
     "@rolldown/binding-darwin-arm64": "1.2.0"
   }
 }
