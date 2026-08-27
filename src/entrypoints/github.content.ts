@@ -72,6 +72,8 @@ export default defineContentScript({
             'model.json': 'rojo-png.svg',
 
             'selene.toml': 'selene.svg',
+            'stylua.toml': 'stylua.svg',
+            'styluaignore': 'stylua.svg',
 
             'zap': 'zap.svg',
 
