@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.13.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.12.0...v0.13.0) (2026-08-27)
+
+
+### Features
+
+* **icons:** dependabot ([08b9a86](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/08b9a86d6da835d9ec5d41167edcb0e56c237c28))
+* **icons:** mustache ([60fc092](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/60fc0925aaca09e27454774bc61fdcd0504160e4))
+* **icons:** rokit ([4be4a96](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/4be4a9616aa561f46e356c94c12ea4f2810c4f8e))
+* **icons:** stylua ([1b3b714](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1b3b7145edc54dd31622aa312d86cbc9de1e1e20))
+* **icons:** wiki parser ([1de776d](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/1de776de4f2c3c4057c4ba1517348b6d8ccf1e7c))
+
 ## [0.12.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.11.0...v0.12.0) (2026-07-20)
 
 
