@@ -406,6 +406,7 @@ export default defineContentScript({
             'cspell.config*': 'cspell.svg',
 
             'hbs': 'handlebars.svg',
+            'mustache': 'mustache.svg',
 
             'localazy.json': 'localazy.svg',
 
