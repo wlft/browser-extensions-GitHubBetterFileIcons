@@ -66,6 +66,8 @@ export default defineContentScript({
 
             'aftman.toml': 'aftman.svg',
 
+            'rokit.toml': 'rokit.svg',
+
             'darklua*': 'darklua.svg',
 
             'project.json': 'rojo-png.svg',
