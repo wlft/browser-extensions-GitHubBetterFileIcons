@@ -412,6 +412,7 @@ export default defineContentScript({
 
             'hbs': 'handlebars.svg',
             'mustache': 'mustache.svg',
+            'twig': 'twig.svg',
 
             'localazy.json': 'localazy.svg',
 
