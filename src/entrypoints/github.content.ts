@@ -40,7 +40,7 @@ export default defineContentScript({
             'next.config*': 'nextjs.svg',
             'vercel.json': 'vercel.svg',
 
-            'vite.config*': 'vite.svg',
+            'vite*': 'vite.svg',
             'vitest*': 'vitest.svg',
 
             'fly.toml': 'fly.svg',
