@@ -414,6 +414,9 @@ export default defineContentScript({
             'mustache': 'mustache.svg',
             'twig': 'twig.svg',
 
+            'svgo.config.mjs': 'svgo.svg',
+            'svgo.config.js': 'svgo.svg',
+
             'localazy.json': 'localazy.svg',
 
             'netlify*': 'netlify.svg',
