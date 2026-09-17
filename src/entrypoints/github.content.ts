@@ -184,6 +184,7 @@ export default defineContentScript({
             'docker-compose*': 'docker-pink.svg',
             'dockerignore': 'docker.svg',
             'dockerfile*': 'docker.svg',
+            'doxyfile': 'doxygen',
 
             'nginx.conf': 'nginx.svg',
 
