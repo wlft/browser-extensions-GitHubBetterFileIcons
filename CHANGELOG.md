@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.14.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.13.0...v0.14.0) (2026-09-17)
+
+
+### Features
+
+* **icons:** doxygen ([629bd63](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/629bd6389651a7d076df3177b37607cc57f1c7d4))
+* **icons:** svgo ([7e465fa](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/7e465fa7485ca9d020aa5a2591c61f1940abe3ee))
+* **icons:** twig ([6c9650c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/6c9650c0a38b156248bb07ee7c5a5ec22fb8c981))
+
+
+### Bug Fixes
+
+* **icons:** match vite to vite* ([c55f963](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/c55f963d7486860b760bbee909072e3236f30eec))
+* **icons:** netlify being aliased to localazy instead ([567c221](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/567c221cb6c74a60be26df4749815e70992ed4e9))
+
 ## [0.13.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.12.0...v0.13.0) (2026-08-27)
 
 
