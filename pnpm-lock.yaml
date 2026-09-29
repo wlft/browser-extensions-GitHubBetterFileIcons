@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@rolldown/binding-darwin-arm64':
-        specifier: 1.2.9
-        version: 1.2.9
+        specifier: 1.2.11
+        version: 1.2.11
       typescript:
         specifier: ^7.0.2
         version: 7.0.2
@@ -256,8 +256,8 @@ packages:
     cpu: [arm64]
     os: [darwin]
 
-  '@rolldown/binding-darwin-arm64@1.2.9':
-    resolution: {integrity: sha512-IwhlH3qK5urrY8hZiEgGkHKEFN901p/p2bjxCxJlr4GyNnF7wYpUvK+Y43uaRYuC4hpfjzbR3SJC3arX1jGvmw==}
+  '@rolldown/binding-darwin-arm64@1.2.11':
+    resolution: {integrity: sha512-jShvqNtP6vDC6/A5JOAzbVV+DkgHqhl/ScVCJEbt+TUY6QYz7YnXcrg3sLtFBniro0f/Ld50ZwCWA6f7KYD1nQ==}
     engines: {node: ^20.19.0 || >=22.12.0}
     cpu: [arm64]
     os: [darwin]
@@ -1238,7 +1238,7 @@ snapshots:
   '@rolldown/binding-darwin-arm64@1.1.5':
     optional: true
 
-  '@rolldown/binding-darwin-arm64@1.2.9': {}
+  '@rolldown/binding-darwin-arm64@1.2.11': {}
 
   '@rolldown/binding-darwin-x64@1.1.5':
     optional: true
