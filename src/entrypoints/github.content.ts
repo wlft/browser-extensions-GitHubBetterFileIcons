@@ -191,6 +191,11 @@ export default defineContentScript({
             'turbo.json': 'turborepo.svg',
             'turbo.jsonc': 'turborepo.svg',
 
+            'bazelrc': 'bazel.svg',
+            'bazelignore': 'bazel.svg',
+            'bazelversion': 'bazel.svg',
+            'bazel': 'bazel.svg',
+
             'localsettings.php': 'mediawiki.svg',
             'wikitext': 'mediawiki.svg',
             'wiki': 'mediawiki.svg',
