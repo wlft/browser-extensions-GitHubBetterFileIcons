@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.15.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.14.0...v0.15.0) (2026-10-22)
+
+
+### Features
+
+* **icons:** bazel ([b22694a](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/b22694ababc4db396197961dd6162d5ddd7cac5f))
+
 ## [0.14.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.13.0...v0.14.0) (2026-09-17)
 
 
