@@ -213,6 +213,7 @@ export default defineContentScript({
             'gitmodules': 'git.svg',
             'git-blame-ignore': 'git.svg',
             'git-blame-ignore-revs': 'git.svg',
+            'worktreeinclude': 'git.svg',
             'pre-commit': 'git.svg',
             'mailmap': 'git.svg',
 
