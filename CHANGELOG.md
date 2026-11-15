@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.16.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.15.0...v0.16.0) (2026-11-15)
+
+
+### Features
+
+* **icons:** .hcl ([69403a0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/69403a07a70def30e15f0b8bc2ea4de55a0dce03))
+* **icons:** terraform ([186b11c](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/commit/186b11c05b71b1b2a8674f1a0ee905a73eaecddd))
+
 ## [0.15.0](https://github.com/wlft/browser-extensions-GitHubBetterFileIcons/compare/v0.14.0...v0.15.0) (2026-10-30)
 
 
