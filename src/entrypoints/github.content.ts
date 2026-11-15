@@ -197,6 +197,7 @@ export default defineContentScript({
             'bazel': 'bazel.svg',
 
             'tf': 'terraform.svg',
+            'hcl': 'terraform.svg',
 
             'localsettings.php': 'mediawiki.svg',
             'wikitext': 'mediawiki.svg',
